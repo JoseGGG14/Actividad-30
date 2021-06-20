@@ -1,0 +1,120 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	font: bold 20px verdana, sans-serif;
+}
+header, section, footer, aside, article, figure, figcaption, hgroup {
+	display: block;
+}
+body{
+	width: 750px;
+	height: 750px;
+	margin: auto;
+	background-color: blue;
+}
+img{
+	width: 120px;
+	height: 150px;
+	float: left;
+}
+#texto0{
+	width: 110px;
+	height: 20px;
+	color: white;
+	text-align: right;
+}
+#section1{
+	width: 120px;
+	height: 790px;
+	background: red;
+	float: left;
+}
+#imagen{
+	width: 60px;
+	height: 60px;
+	float: left;
+	margin-top: 280px;
+	margin-left: 33px;
+}
+a{
+	width: 110px;
+	height: 20px;
+	color: white;
+	margin-right: 15px;
+}
+#idioma{
+	width: 110px;
+	height: 20px;
+	text-align: center;
+	background: white;
+	margin-top: 374px;
+	margin-left: 5px;
+	color: black;
+}
+#titulo{
+	width: 590px;
+	height: 110px;
+	background: #ffaa22;
+	padding: 20px;
+	text-align: center;
+	margin-left: 120px;
+}
+#seccion2{
+	float: right;
+	width: 630px;
+	height: 640px;
+	background: white;
+}
+#perfil{
+	width: 160px;
+	height: 20px;
+	text-align: center;
+	background: black;
+	color: #f0ffff;
+}
+#educacion{
+	width: 160px;
+	height: 20px;
+	text-align: center;
+	background: black;
+	color: #f0ffff;
+	margin-top: 20px;
+}
+#detalles{
+	width: 160px;
+	height: 20px;
+	text-align: center;
+	background: black;
+	color: #f0ffff;
+	margin-top: 20px;
+}
+#nacionalidad{
+	margin-top: 20px;
+}
+#contactos{
+	margin-top: 20px;
+}
+#habilidades{
+	width: 160px;
+	text-align: center;
+	background: black;
+	color: #f0ffff;
+	margin-top: 20px;
+}
+#conosimientos{
+	width: 160px;
+	text-align: center;
+	background: black;
+	color: #f0ffff;
+	margin-top: 20px;
+}
+#pie{
+	clear: both;
+	text-align: center;
+	padding: 20px;
+	border-top: 7px solid #ffaa22;
+	background: black;
+	color: white;
+}
